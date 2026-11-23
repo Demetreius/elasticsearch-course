@@ -1,0 +1,9 @@
+
+LESSON 3 : EXPLORING DATA WITH KIBANA AND AI AGENT 
+
+KIBANA is where you go to search, explore, vsualize data stored in the Elasticsearch Platform.
+
+One part of Kibana is Dashboards.
+DASHBOARDS are part of KIBANA that present data visually through charts, tables and numeric summaries
+
+AI AGENTS can helps answer questions tha aren't always easy to see in a visualizaation.

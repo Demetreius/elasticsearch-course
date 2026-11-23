@@ -1,0 +1,49 @@
+
+   LESSON 2 : THREE CORE USE-CASES OF ELASTICSEARCH 
+
+    The elasticsearch platform is built around three core use-cases :
+
+     - OBSERVABILITY ( Elastic Observability ) : This is about understanding what is happening inside your systems. Ex: It can help teams figure out why their
+       application is slow, why a service is unavailable, and why users are having trouble logging in.
+
+     - SECURITY ( Elastic Security ) : This is about identifying and investigating suspicious activities and threats to your systems.  Ex:  It can help teams
+       figure out if an activity is unusual, the network traffic is unexpected,  devive behaviour could be a sign of an attack.
+
+     - SEARCH ( Elasticsearch Core Engine ) : This is about finding relevant informations quickly across large amounts of data, even when data comes from
+      different sources, or is described in different ways.
+
+
+    All Observability and security problems both depend on search to find the informations they need. It is not only a use-case of its own, but 
+    also the foundation of the platform.
+
+    SEARCH IS EVERYWHERE
+
+    Search is something we use every days : 
+     - Searching for an email
+     - Looking for a product online
+     - Loading a social media feed
+     - Getting a song recommandation
+     - Finding avaiolable drivers nearby
+
+
+    AI IS BUILDS ON SEARCH
+    Search is the foundation that AI builds on to deliver more value.
+    AI enhances Elastic's core use case by :
+    - Improving how search understands meaning
+    - Making it easer for users to interct with data
+
+    Ex: Semantic Search : 
+    Traditional search looks for exact words.
+    Semantic search use AI to understand how words and concepts relate each other
+
+    Elastic also uses AI Agent
+    It is a converstional tool that lets users ask questions in plain language and get relevant answers quickly.
+
+
+    AI ACROSS THE ELASTICSEARCH PLATFORM
+    AI enhances all three solutions areas across the Elasticsearch Platform.
+     - In Elasticsearch, AI helps users find relevant content faster and more efficiently;
+     - In Observability, it helps teams understand issues more quickly.
+     - In Security, it helps investigators identify and respond to suspicious activity more efficiently;
+
+    

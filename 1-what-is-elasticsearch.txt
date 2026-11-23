@@ -1,0 +1,24 @@
+
+LESSON 1: WHAT IS ELASTICSEARCH ?
+
+
+The Elasticsearch Platform is a search and analytics platform that helps organizations find, analyze, and act on the data that matters most.
+
+It brings together data from differents systens into one place. So teams can quickly find informations that are relevant to their needs.
+
+    - A security teams can look for signs of suspicious activities
+    - The operation teans can focus whether the traffic affects the site performances.
+
+
+    SEARCH IS THE FOUNDATION OF THE EXPERIENCE.
+    It helps teams find relevant informations across large amounts of datas from differents format and places.
+
+    AI BUILDS ON A SEARCH FOUNDATION
+    When AI starts with the relevant information, it can help users understand results more quickly by :
+    - summerizing those data
+    - Highlighting useful details
+    - pointing out what matters the most
+
+    SEARCH IS FOUNDATIONAL TO THE ELASTICSEARCH PLATFORM
+
+
